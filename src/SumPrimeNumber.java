@@ -19,7 +19,7 @@ public class SumPrimeNumber {
             if (j >= i) {
                sum += j;
                count += 1;
-                System.out.println(j);
+               System.out.println(j);
             }
         }
         System.out.println(sum);

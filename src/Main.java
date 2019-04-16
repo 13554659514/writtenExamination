@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * 实现n的阶乘使用递归实现
+ * 北大医信笔试题
  */
 public class Main {
     public static void main(String[] args) {

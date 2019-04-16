@@ -5,6 +5,7 @@ import java.util.Arrays;
  * 冒泡排序
  * N个数字要排序完成，总共进行N-1趟排序，每i趟的排序次数为(N-i)次
  * 每进行一趟排序，就会少比较一次，因为每进行一趟排序都会找出一个较大值。
+ * 京颐笔试题
  */
 public class BubbleSort {
      public static void main(String args[]){

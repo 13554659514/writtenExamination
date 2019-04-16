@@ -1,6 +1,7 @@
 /**
  * Created by 14zr on 2019-04-10.
  * 查找str2在str1中第一次出现的位置
+ * 京颐笔试题
  */
 public class ExistString {
      public static void main(String args[]){
